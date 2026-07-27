@@ -1,0 +1,3 @@
+in with_structured_output a paramerer called method
+1. use method = jsonmode when we use model like clude,gemini
+2.use functioncalling when use open ai
