@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "city",
+        "data",
+        "length"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Give me the {data} for the city of {city}. Limit the length of your response to: {length}.",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
